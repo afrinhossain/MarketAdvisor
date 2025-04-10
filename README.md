@@ -30,4 +30,6 @@ EMAIL_PASSWORD=your_app_password
 RECEIVER_EMAIL=you@example.com
 OPENAI_API_KEY=sk-...
 
-and run script :) 
+and run script :)
+
+ps. relevant files to run this is the main.py and the .env, the rest is replit waffle
